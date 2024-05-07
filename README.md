@@ -1,1 +1,0 @@
-# Fullstack_Template_EJS_MongoDB
